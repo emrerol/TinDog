@@ -1,6 +1,6 @@
 # TinDog Website Clone
 
-I made it while watching Angela Yu Udemy course..
+I made it while watching Angela Yu Udemy course
 
 What Used:
 
